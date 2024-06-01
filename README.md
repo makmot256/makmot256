@@ -1,10 +1,10 @@
-# Hi there 👋, Dev Johnson
-## Development and Design
 ![Development and Design](https://github.com/makmot256/makmot256/blob/main/devjohnson.jpg)
-
+# Dev Johnson
+## Development and Design
 I am Johnson,  a software engineer with web based skills, i love to learn each day and improve my everyday skills, i do content on design and development and really enjoy learning languages and frameworks like React and Javascript. My heart longs for learning, sharing and improving myself each day of my life.
 
-Skills: **html(5)
+### Skills and Experience:
+**html(5)
 css(3)
 Javascript
 React
