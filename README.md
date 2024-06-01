@@ -4,13 +4,13 @@
 I am Johnson,  a software engineer with web based skills, i love to learn each day and improve my everyday skills, i do content on design and development and really enjoy learning languages and frameworks like React and Javascript. My heart longs for learning, sharing and improving myself each day of my life.
 
 ### Skills and Experience:
-**html(5)
-css(3)
-💻Javascript
-⚛️React
-Next js
-Angular
-Bootstrap**
+**- html(5)
+- css(3)
+- 💻Javascript
+- ⚛️React
+- Next js
+- Angular
+- Bootstrap**
 
 - 🔭 I’m currently working on improving my skills in Frontend development
 - 📫 How to reach me: jmakmot51@gmail.com 
