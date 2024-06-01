@@ -6,8 +6,8 @@ I am Johnson,  a software engineer with web based skills, i love to learn each d
 ### Skills and Experience:
 **html(5)
 css(3)
-Javascript
-React
+💻Javascript
+⚛️React
 Next js
 Angular
 Bootstrap**
