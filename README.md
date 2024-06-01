@@ -9,8 +9,8 @@ css(3)
 Javascript
 React
 Next js
-Angular**
-Bootstrap
+Angular
+Bootstrap**
 
 - 🔭 I’m currently working on improving my skills in Frontend development
 - 📫 How to reach me: jmakmot51@gmail.com 
