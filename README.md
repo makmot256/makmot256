@@ -1,6 +1,6 @@
 # Hi there 👋, Dev Johnson
 ## Development and Design
-![Development and Design](https://pbs.twimg.com/profile_banners/1207256868088729600/1652548790/600x200)
+![Development and Design](https://github.com/makmot256/makmot256/blob/main/devjohnson.jpg)
 
 I am Johnson,  a software engineer with web based skills, i love to learn each day and improve my everyday skills, i do content on design and development and really enjoy learning languages and frameworks like React and Javascript. My heart longs for learning, sharing and improving myself each day of my life.
 
