@@ -4,17 +4,17 @@
 I am Johnson,  a software engineer with web based skills, i love to learn each day and improve my everyday skills, i do content on design and development and really enjoy learning languages and frameworks like React and Javascript. My heart longs for learning, sharing and improving myself each day of my life.
 
 ### Skills and Experience:
-**- html(5)
-- css(3)
-- 💻Javascript
-- ⚛️React
-- Next js
-- Angular
+**html(5)
+ css(3)
+ 💻Javascript
+ ⚛️React
+ Next js
+ Angular
 - Bootstrap**
 
-🔭 I’m currently working on improving my skills in Frontend development
-📫 How to reach me: jmakmot51@gmail.com 
-⚡ Fun fact: Get me good wifi, a quiet room, my laptop and a few snacks, i will become invincible.
+- 🔭 I’m currently working on improving my skills in Frontend development
+- 📫 How to reach me: jmakmot51@gmail.com 
+- ⚡ Fun fact: Get me good wifi, a quiet room, my laptop and a few snacks, i will become invincible.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makmot256&show_icons=true&theme=radical)
 
