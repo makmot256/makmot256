@@ -1,7 +1,8 @@
 ### Hi there 👋, Dev Johnson
 #### Development and Design
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makmot256)](https://github.com/anuraghazra/github-readme-stats)
-![Development and Design](https://arturssmirnovs.github.io/github-profile-readme-generator/images/devjohnson.jpg)
+![Development and Design]
+(https://pbs.twimg.com/profile_banners/1207256868088729600/1652548790/600x200)
 
 I am Johnson,  a software engineer with web based skills, i love to learn each day and improve my everyday skills, i do content on design and development and really enjoy learning languages and frameworks like React and Javascript. My heart longs for learning, sharing and improving myself each day of my life.
 
