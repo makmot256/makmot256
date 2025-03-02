@@ -12,7 +12,7 @@ I am Johnson,  a software engineer with web based skills, i love to learn each d
  Angular
 - Bootstrap**
 
-- 🔭 I’m currently working on improving my skills in Frontend development
+- 🔭 I’m currently working on improving my skills in Fullstack develoopment
 - 📫 How to reach me: jmakmot51@gmail.com 
 - ⚡ Fun fact: Get me good wifi, a quiet room, my laptop and a few snacks, i will become invincible.
 
